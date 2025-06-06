@@ -12,10 +12,11 @@
 - 🌱 Currently exploring the world of machine learning  <br>
 - 🎯 Goal: Become a skilled senior programmer and build meaningful products  
 
+<br>
 ---
-<br><br>
 
-## 🛠 My Tech Stack<br><br>
+## 🛠 My Tech Stack
+<br>
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,8 +42,9 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
-<br><br>
+<br>
 
-## 🎯 Fun Fact<br><br>
+## 🎯 Fun Fact
+<br>
 
 - I love solving problems and automating everyday tasks with code 🤖
