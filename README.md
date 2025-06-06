@@ -7,13 +7,15 @@
 
 ## 🚀 About Me
 
-- 🎓 Junior web developer with a passion for building real-world applications  <br>
+- 🎓 Junior web developer with a passion for building real-world applications
 - 🧠 Always learning new technologies and frameworks  <br>
 - 🌱 Currently exploring the world of machine learning  <br>
-- 🎯 Goal: Become a skilled senior programmer and build meaningful products  <br>
-
+- 🎯 Goal: Become a skilled senior programmer and build meaningful products
+<br>
 
 ---
+
+<br>
 
 ## 🛠 My Tech Stack
 <br>
