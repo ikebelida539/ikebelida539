@@ -10,7 +10,7 @@
 - 🎓 Junior web developer with a passion for building real-world applications  <br>
 - 🧠 Always learning new technologies and frameworks  <br>
 - 🌱 Currently exploring the world of machine learning  <br>
-- 🎯 Goal: Become a skilled senior programmer and build meaningful products  
+- 🎯 Goal: Become a skilled senior programmer and build meaningful products  <br>
 
 
 ---
