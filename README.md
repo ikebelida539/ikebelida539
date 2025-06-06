@@ -2,22 +2,18 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=4DA8DA&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+Ike+Belida;Junior+Programmer+🚀;Always+Learning+%26+Building+Cool+Stuff)
 
----
-
-
+---<br>
 
 ## 🚀 About Me
 
-- 🎓 Junior web developer with a passion for building real-world applications  
-- 🧠 Always learning new technologies and frameworks  
-- 🌱 Currently exploring the world of machine learning  
+- 🎓 Junior web developer with a passion for building real-world applications  <br>
+- 🧠 Always learning new technologies and frameworks  <br>
+- 🌱 Currently exploring the world of machine learning  <br>
 - 🎯 Goal: Become a skilled senior programmer and build meaningful products  
 
----
+---<br><br>
 
-
-
-## 🛠 My Tech Stack
+## 🛠 My Tech Stack<br><br>
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,10 +38,8 @@
 ### Tools & Package Managers
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
----
+---<br><br>
 
-
-
-## 🎯 Fun Fact
+## 🎯 Fun Fact<br><br>
 
 - I love solving problems and automating everyday tasks with code 🤖
