@@ -12,7 +12,7 @@
 - 🌱 Currently exploring the world of machine learning  <br>
 - 🎯 Goal: Become a skilled senior programmer and build meaningful products  
 
-<br>
+
 ---
 
 ## 🛠 My Tech Stack
