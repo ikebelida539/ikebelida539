@@ -3,7 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=4DA8DA&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+Ike+Belida;Junior+Programmer+🚀;Always+Learning+%26+Building+Cool+Stuff)
 
 ---
----
+
+
 
 ## 🚀 About Me
 
@@ -13,7 +14,8 @@
 - 🎯 Goal: Become a skilled senior programmer and build meaningful products  
 
 ---
----
+
+
 
 ## 🛠 My Tech Stack
 
@@ -41,7 +43,8 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
----
+
+
 
 ## 🎯 Fun Fact
 
