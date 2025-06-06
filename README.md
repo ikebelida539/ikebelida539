@@ -1,6 +1,8 @@
-# 👋 Hey, I'm Ike - A Junior Programmer 👨‍💻
+# 👋 Hey, I'm Ike — A Passionate Junior Programmer 👨‍💻
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=4DA8DA&center=true&vCenter=true&width=435&lines=Hey+I'm+Ike+Belida;I+am+a+Junior+Programmer+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=4DA8DA&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+Ike+Belida;Junior+Programmer+🚀;Always+Learning+%26+Building+Cool+Stuff)
+
+
 
 ---
 
