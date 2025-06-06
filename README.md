@@ -47,6 +47,11 @@
 ![nvm](https://img.shields.io/badge/nvm-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 📈 Optimization & SEO
+- 📊 I care about SEO best practices for performance, accessibility, and discoverability.
+- Tools I use:
+  ![Google Lighthouse](https://img.shields.io/badge/Lighthouse-292929?style=for-the-badge&logo=googlechrome&logoColor=white)
+  ![Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
 <br>
