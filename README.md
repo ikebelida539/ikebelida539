@@ -29,12 +29,6 @@
 
 ---
 
-/////## 📊 GitHub Stats
-
-/////![Ike's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
 ## 🎯 Fun Fact
 
 - I love solving problems and automating small things using code 🤖
