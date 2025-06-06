@@ -15,7 +15,7 @@
 
 ---
 
-<br><br>
+<br>
 
 ## 🛠 My Tech Stack
 <br>
@@ -45,7 +45,7 @@
 
 <br>
 ---
-<br><br>
+<br>
 
 ## 🎯 Fun Fact
 <br>
