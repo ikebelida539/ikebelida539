@@ -3,7 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=4DA8DA&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+Ike+Belida;Junior+Programmer+🚀;Always+Learning+%26+Building+Cool+Stuff)
 
 ---
-<br>
 
 ## 🚀 About Me
 
@@ -64,3 +63,5 @@
 <br>
 
 - I love solving problems and automating everyday tasks with code 🤖
+
+<br>
